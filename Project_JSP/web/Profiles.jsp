@@ -24,6 +24,7 @@
         <link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
         <link href="css/agency.min.css" rel="stylesheet">
         <link rel="stylesheet" href="vendor/others/profile.css">
+        <link rel="stylesheet" href="vendor/others/photo.css">
 
         <link rel="shortcut icon" href="">
     </head>
@@ -65,8 +66,11 @@
 					            <img class="card-bkimg" alt="" src="http://i2.cdscdn.com/pdt2/2/0/0/1/700x700/auc5060219944200/rw/figurine-geante-mickey-mouse.jpg">
 					        </div>
 					        <div class="useravatar">
-					        	<img src="http://i2.cdscdn.com/pdt2/2/0/0/1/700x700/auc5060219944200/rw/figurine-geante-mickey-mouse.jpg">
-					        </div>
+                                                    <!-------->
+
+                                          <img src="http://i2.cdscdn.com/pdt2/2/0/0/1/700x700/auc5060219944200/rw/figurine-geante-mickey-mouse.jpg">
+					        
+                                                </div>
 
 					        <div class="card-info"> <span class="card-title"><a href="Profile.html">${name}</a></span>
 					        </div>
